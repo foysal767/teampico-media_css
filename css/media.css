@@ -1,0 +1,235 @@
+@media (max-width:2560px){
+
+}
+@media (max-width: 1400px){
+
+}
+@media (max-width:1399px){
+
+}
+@media (max-width:1399px){
+
+}
+@media (max-width: 1199px){
+
+}
+@media (max-width: 992px){
+
+}
+@media (max-width: 991px){
+
+}
+@media (max-width: 768px){
+
+}
+@media (max-width: 767px){
+
+}
+@media (max-width: 575px){
+
+}
+@media (max-width: 425px){
+
+}
+@media (max-width: 375px){
+
+}
+@media (max-width: 320px){
+    html, body{
+        overflow-x: hidden;
+    }
+    header{
+        height: 80vh;
+    }
+
+    .navbar-light .navbar-toggler:focus{
+        color: rgb(238 28 28 / 97%);
+        border-color: rgba(0,0,0,.1);
+    }
+    .nav-link{
+        display: inline-block;
+    } 
+    .navbar-brand{
+        width: 50%;
+    }
+    .navbar-brand img{
+        width: 100%;
+    }
+    .header-content{
+        text-align: center;
+        offset: none;
+        margin-left: 0%;
+        padding: 38px 0 0 0;
+        position: relative;
+    }
+    header h1 {
+        text-transform: uppercase;
+        font-size: 24px;
+        font-weight: 700;
+    }
+    header p {
+        font-size: 14px;
+    }
+    .btn-appointment {
+        background-color: transparent;
+        color: #eb3a4c;
+        border: 1px solid #eb3a4c;
+        border-radius: 50px;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: 600;
+        padding: 10px 10px;
+        transition: .4s all ease-in-out;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+    .btn-projects {
+        position: absolute;
+        top: 105%;
+        left: 47%;
+        transform: translateX(-50%);
+    }
+    header .hg {
+        height: 80vh;
+        align-items: center;
+        left: 0%;
+        display: inline;
+    }
+    .about-img{
+        display: none;
+    }
+    .form-control-amezing {
+        background: transparent;
+        border: none;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        border: 1px solid #eb3a4c;
+        border-radius: 50px;
+        padding-left: 7%;
+        padding-right: 34%;
+    }
+    .what-we-do {
+        min-height: 116vh;
+    }
+    .what-we-do .container-fluid{
+        padding: 0%;
+        margin: 0%;
+    }
+    .what-we-do h1, .our-projects h1, .about-us h1, .testimonial h1, .recent h1, .contact-us h1 {
+        font-size: 24px;
+        padding-top: 35px;
+        padding-bottom: 5px;
+    }
+    .what-we-do p, .about-us p, .testimonial p, .recent p, .contact-us p {
+        font-size: 14px;
+        padding: 0px 6px;
+    }
+    .owl-nav{
+        display: none;
+    }
+    .owl-item {
+        height: 300px;
+        padding: 0px 44px;
+    }
+    .owl-item i {
+        color: #a5a1a1;
+        font-size: 60px;
+        padding: 35px 0;
+        transition: .4s all ease-in-out;
+    }
+    .box {
+        padding-top: 10px;
+    }
+    .btn-explore{
+        top: 82%;
+    }
+    .btn-view{
+        bottom: 1.5%;
+    }
+    .about-content{
+        text-align: center;
+        height: 62vh;
+    }
+    .about-us .hg {
+        height: 55vh;
+        padding-top: 1%;
+    }
+    .counter .review h1 {
+        font-size: 16px;
+    }
+    .counter .review h2 {
+        font-size: 16px;
+    }
+    .counter .review::before {
+        height: 80px;
+        width: 80px;
+    }
+    .counter{
+        height: 76vh;
+    }
+    .review{
+        height: 120px;
+    }
+    .talk{
+        flex-wrap: nowrap;
+    }
+    .talki{
+        width: 25%;
+    }
+    .amezing .offer {
+        left: -40%;
+    }
+    .ameze1{
+        text-align: center;
+    }
+    .ameze2{
+        text-align: center;
+    }
+    .form-control-amezing {
+        padding-right: 0%;
+        padding-left: 10%;
+    }
+    form input[type="submit"]{
+        margin-top: 10px;
+    }
+    .swiper-button-prev {
+        left: 5%;
+    }
+    .swiper-button-next{
+        left: 5%;
+    }
+    .plan{
+        min-height: 329vh;
+    }
+    .plan .price{
+        margin: 10px 0;
+    }
+    .btn-custom{
+        margin-top: 15px;
+    }
+    .post-details {
+        margin: 0px 14px;
+        width: 90%;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    .btn-rmore {
+        padding: 10px 10px;
+        text-decoration: none;
+        color: #eb3a4c;
+        left: 50%;
+        transform: translateX(90%);
+    }
+    footer span::before{
+        left: 94%;
+    }
+    footer{
+        background-image: unset;
+    }
+    .footer-offer-0-p{
+        background-color: #fff;
+    background-image: url(../images/Group\ 339.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 100vh;
+    }
+}
